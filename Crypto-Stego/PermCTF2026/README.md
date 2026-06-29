@@ -32,4 +32,4 @@
 pstuctf{hello_it_lunh_algorithm}
 ```
 
-By ghostemanelxrd123-creator (Дмитрий)
+By Rapid (Дмитрий)
